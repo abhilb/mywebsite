@@ -31,3 +31,15 @@ body {
     justify-content: center;
     flex-direction: row;
 }
+
+.linkBtn {
+    text-decoration: none;
+    padding: 1px;
+    font-size: 15px;
+    background-color: #ffffff;
+    margin: 10px;
+    width: 100px;
+    border-radius: 50%;
+    color: black;
+    font-weight: bold;
+}
